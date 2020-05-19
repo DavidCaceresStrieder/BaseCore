@@ -1,0 +1,8 @@
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.deps.json
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.csprojAssemblyReference.cache
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.AssemblyInfoInputs.cache
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.AssemblyInfo.cs
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.pdb
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.pdb

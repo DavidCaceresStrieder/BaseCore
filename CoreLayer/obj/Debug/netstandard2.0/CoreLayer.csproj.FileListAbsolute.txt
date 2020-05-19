@@ -1,0 +1,14 @@
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csprojAssemblyReference.cache
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.AssemblyInfo.cs
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.deps.json
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\CoreLayer.pdb
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.csproj.CopyComplete
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.dll
+C:\Users\David Caceres\source\repos\DCSCoreFramework\CoreLayer\obj\Debug\netstandard2.0\CoreLayer.pdb
