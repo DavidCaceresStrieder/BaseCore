@@ -6,3 +6,12 @@ C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netst
 C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.pdb
 C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.dll
 C:\Users\David Caceres\source\repos\DCSCoreFramework\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.pdb
+E:\Proyectos\BaseCore\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.deps.json
+E:\Proyectos\BaseCore\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.dll
+E:\Proyectos\BaseCore\ModelsLayer\bin\Debug\netstandard2.0\ModelsLayer.pdb
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.csprojAssemblyReference.cache
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.AssemblyInfoInputs.cache
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.AssemblyInfo.cs
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.csproj.CoreCompileInputs.cache
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.dll
+E:\Proyectos\BaseCore\ModelsLayer\obj\Debug\netstandard2.0\ModelsLayer.pdb

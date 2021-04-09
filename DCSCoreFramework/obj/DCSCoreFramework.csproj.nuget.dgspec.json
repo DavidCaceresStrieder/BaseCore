@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\DCSCoreFramework\\DCSCoreFramework.csproj": {}
+    "E:\\Proyectos\\BaseCore\\DCSCoreFramework\\DCSCoreFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\DCSCoreFramework\\DCSCoreFramework.csproj": {
+    "E:\\Proyectos\\BaseCore\\DCSCoreFramework\\DCSCoreFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\DCSCoreFramework\\DCSCoreFramework.csproj",
+        "projectUniqueName": "E:\\Proyectos\\BaseCore\\DCSCoreFramework\\DCSCoreFramework.csproj",
         "projectName": "DCSCoreFramework",
-        "projectPath": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\DCSCoreFramework\\DCSCoreFramework.csproj",
-        "packagesPath": "C:\\Users\\David Caceres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\DCSCoreFramework\\obj\\",
+        "projectPath": "E:\\Proyectos\\BaseCore\\DCSCoreFramework\\DCSCoreFramework.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\BaseCore\\DCSCoreFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\David Caceres\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
@@ -31,9 +26,10 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\ModelsLayer.csproj": {
-                "projectPath": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\ModelsLayer.csproj"
+              "E:\\Proyectos\\BaseCore\\ModelsLayer\\ModelsLayer.csproj": {
+                "projectPath": "E:\\Proyectos\\BaseCore\\ModelsLayer\\ModelsLayer.csproj"
               }
             }
           }
@@ -46,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
@@ -83,27 +80,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\ModelsLayer.csproj": {
+    "E:\\Proyectos\\BaseCore\\ModelsLayer\\ModelsLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\ModelsLayer.csproj",
+        "projectUniqueName": "E:\\Proyectos\\BaseCore\\ModelsLayer\\ModelsLayer.csproj",
         "projectName": "ModelsLayer",
-        "projectPath": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\ModelsLayer.csproj",
-        "packagesPath": "C:\\Users\\David Caceres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Caceres\\source\\repos\\DCSCoreFramework\\ModelsLayer\\obj\\",
+        "projectPath": "E:\\Proyectos\\BaseCore\\ModelsLayer\\ModelsLayer.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos\\BaseCore\\ModelsLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\David Caceres\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -114,6 +106,7 @@
         },
         "frameworks": {
           "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -125,6 +118,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "dependencies": {
             "Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -155,7 +149,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

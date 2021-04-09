@@ -17,3 +17,23 @@ C:\Users\David Caceres\source\repos\DCSCoreFramework\DCSCoreFramework\obj\Debug\
 C:\Users\David Caceres\source\repos\DCSCoreFramework\DCSCoreFramework\bin\Debug\netcoreapp2.1\appsettings.Development.json
 C:\Users\David Caceres\source\repos\DCSCoreFramework\DCSCoreFramework\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Users\David Caceres\source\repos\DCSCoreFramework\DCSCoreFramework\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\DCSCoreFramework.deps.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\DCSCoreFramework.runtimeconfig.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\DCSCoreFramework.runtimeconfig.dev.json
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\DCSCoreFramework.dll
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\DCSCoreFramework.pdb
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\ModelsLayer.dll
+E:\Proyectos\BaseCore\DCSCoreFramework\bin\Debug\netcoreapp2.1\ModelsLayer.pdb
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.csprojAssemblyReference.cache
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.AssemblyInfoInputs.cache
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.AssemblyInfo.cs
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.csproj.CoreCompileInputs.cache
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.RazorAssemblyInfo.cache
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.RazorAssemblyInfo.cs
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.RazorTargetAssemblyInfo.cache
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.csproj.CopyComplete
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.dll
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.pdb
+E:\Proyectos\BaseCore\DCSCoreFramework\obj\Debug\netcoreapp2.1\DCSCoreFramework.genruntimeconfig.cache

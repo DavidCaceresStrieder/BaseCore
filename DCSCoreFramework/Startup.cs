@@ -23,7 +23,7 @@ namespace DCSCoreFramework
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);            
-            services.AddDbContext<GameContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:DefaultConnection"], provOption => provOption.CommandTimeout(300)));
+            services.AddDbContext<WorkContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:DefaultConnection"], provOption => provOption.CommandTimeout(300)));
 
             //services.AddScoped<GameContext, GameContext>();
 

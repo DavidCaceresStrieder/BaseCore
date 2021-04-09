@@ -13,11 +13,14 @@ namespace ModelsLayer.EntityFramework
         where G : DbContext
     {
 
-        public EFGenericRepository() {
-            //this.itemDbSet = this.UnitOfWork.Set<T>();
-        }
-        protected virtual G UnitOfWork { get; set; } 
-        protected virtual DbSet<T> itemDbSet { get; set; } 
+        protected virtual DbContext UnitOfWork { get; set; }
+        protected virtual DbSet<T> itemDbSet { get; set; }
+
+
+        public EFGenericRepository(DbContext context) {
+            UnitOfWork = context;
+            itemDbSet = UnitOfWork.Set<T>();
+        }        
 
         public virtual T Save(T Item)
         {

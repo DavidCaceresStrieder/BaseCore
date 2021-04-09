@@ -8,12 +8,10 @@ using ModelsLayer.Models.Promises;
 
 namespace ModelsLayer.Models.Resolves
 {
-    public class UserResolution : EFGenericRepository<User, GameContext>, IUserDB
+    public class UserResolution : EFGenericRepository<User, WorkContext>, IUserDB
     {
-        public UserResolution(GameContext GameContext) : base()
-        {
-            this.UnitOfWork = GameContext;
-            this.itemDbSet = this.UnitOfWork.Set<User>();
+        public UserResolution(WorkContext GameContext) : base(GameContext)
+        {            
         }
     }
 }
